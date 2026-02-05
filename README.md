@@ -1,2 +1,2 @@
 # plant-vascular-variants-database
-A curated database of vascular variant terminology, categories, patterns, and phylogenetic distribution across plants.
+A curated, continuously updated database for "vascular variants" terminology, categories, patterns, and phylogenetic distribution across plants.
