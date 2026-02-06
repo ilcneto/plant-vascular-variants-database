@@ -25,4 +25,4 @@ Cunha-Neto, I. L. (YEAR). Vascular Variants Database (Version X.X) [Data set]. Z
 
 Users employing both the conceptual framework and the database are encouraged to cite both references.
 
-# This project is licensed under the terms of the Creative Commons Attribution 4.0 license. 
+## This project is licensed under the terms of the Creative Commons Attribution 4.0 license. 
