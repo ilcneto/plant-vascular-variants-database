@@ -3,11 +3,11 @@ This table lists terms historically used to refer to vascular variants or atypic
 											
 ## Columns											
 - Term
-  Term used in previous studies.
+Term used in previous studies.
 											
 - Language
-  Idiom of the referred term. 
+Idiom of the referred term. 
 
 - Source
-  References using the referred term. 
+References using the referred term. 
 											
