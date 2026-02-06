@@ -7,12 +7,14 @@ The term vascular variants and its associated conceptual framework were introduc
 ## Definition (from Cunha-Neto 2023)
 Vascular variants are alternative vascular ontogenies deviating from an ancestral development, achieved through modifications in the organization, activity, position, timing and/or number of vascular meristems. Specifically in stems of seed plants, vascular variants are alternative trajectories that deviate from the typical growth (i.e., eustele + bifacial single cambium), thereby generating circular or non-cylindrical conformations and altered arrangements of vascular tissues.
 
-## The present database adopts this definition and framework to organize historical terminology, structural categories and patterns, and the phylogenetic distribution of vascular variants across seed plants. It is organized into four sheets, as defined below. You can also find a list of references and acknowledgements of collaborators and contributors. 
+## The present database adopts the definition and framework above to organize historical terminology, structural categories and patterns, and the phylogenetic distribution of vascular variants across seed plants. It is organized into four sheets, as defined below. 
 
 ## Table 1: Categories and patterns of vascular variants.
 ## Table 2: Distribution of vascular variants across seed plants.
 ## Table 3: Terminology historically used for vascular variants. 
 ## Table 4: Glossary of terms associated with vascular variants.  
+
+The database also includes a list of references and acknowledgements of collaborators and contributors. 
 
 ## How to cite
 When using the concept, terminology, or definition of vascular variants, please cite:
