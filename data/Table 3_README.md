@@ -1,1 +1,13 @@
-# Terminology historically used for vascular variants											This table includes a list of terms historically used to refer to vascular variants or atypical vasculatures. 																						## Columns											- Term 	Term used in previous studies.											- LanguageIdiom of the referred term. - SourceReferences using the referred term. 											
+# Terminology historically used for vascular variants											
+This table lists terms historically used to refer to vascular variants or atypical vasculature. 											
+											
+## Columns											
+- Term
+  Term used in previous studies.
+											
+- Language
+  Idiom of the referred term. 
+
+- Source
+  References using the referred term. 
+											
