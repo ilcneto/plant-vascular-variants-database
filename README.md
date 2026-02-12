@@ -2,7 +2,7 @@
 A curated, living database documenting the diversity, classification, and phylogenetic distribution of vascular variants across seed plants. The database operationalizes the vascular variants framework introduced in Cunha-Neto et al. (2023) and is continuously updated as new data and studies become available.
 
 ## Background
-Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative arrangements of vascular tissues, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate comparative, evolutionary, and functional studies across plant lineages.							
+Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative vascular tissue arrangements, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate comparative, evolutionary, and functional studies across plant lineages.							
 
 ## Database Structure
 The Plant Vascular Variants Database is organized into two complementary components:
@@ -34,18 +34,17 @@ Future contributions from collaborators may be incorporated as modular datasets 
 						
 ## How to cite
 The Plant Vascular Variants Database consists of a global framework-level survey and modular family-level datasets. These components should be cited separately when used independently.
-
-### When using the concept, terminology, or definition of vascular variants, please cite:
+	When using the concept, terminology, or definition of vascular variants, please cite:
 	- Cunha Neto I.L. 2023. Vascular variants in seed plants – a developmental approach. AoB Plants, 15(4): 1-15.
-### When using the database or any of its contents, please cite:
+	When using the database or any of its contents, please cite:
 	- Cunha-Neto, I. L. (YEAR). Plant Vascular Variants Database (Version X.X) [Data set]. Zenodo. DOI: xxxxx
-### Users employing both the conceptual framework and the database are encouraged to cite both references.
-### Use the specific order/family dataset citation provided in their README when using specific modules.
+	Users employing both the conceptual framework and the database are encouraged to cite both references.
+	Use the specific order/family dataset citation provided in the README for the modules you use.
 
 ## Contact
 For questions or corrections, please contact:
-Israel L. Cunha-Neto
-Florida International University
-ilcneto@fiu.edu
+	Israel L. Cunha-Neto
+	Florida International University
+	ilcneto@fiu.edu
 
 ## This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
