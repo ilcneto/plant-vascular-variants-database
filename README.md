@@ -34,12 +34,12 @@ Future contributions from collaborators may be incorporated as modular datasets 
 						
 ## How to cite
 The Plant Vascular Variants Database consists of a global framework-level survey and modular family-level datasets. These components should be cited separately when used independently.
-	When using the concept, terminology, or definition of vascular variants, please cite:
+- When using the concept, terminology, or definition of vascular variants, please cite:
 	- Cunha Neto I.L. 2023. Vascular variants in seed plants – a developmental approach. AoB Plants, 15(4): 1-15.
-	When using the database or any of its contents, please cite:
+- When using the database or any of its contents, please cite:
 	- Cunha-Neto, I. L. (YEAR). Plant Vascular Variants Database (Version X.X) [Data set]. Zenodo. DOI: xxxxx
-	Users employing both the conceptual framework and the database are encouraged to cite both references.
-	Use the specific order/family dataset citation provided in the README for the modules you use.
+- Users employing both the conceptual framework and the database are encouraged to cite both references.
+- Use the specific order/family dataset citation provided in the README for the modules you use.
 
 ## Contact
 For questions or corrections, please contact:
