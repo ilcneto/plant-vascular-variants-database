@@ -1,8 +1,8 @@
-## 🔹 Start Here: Global Survey
+## 🔹 Start Here: 
 
 The foundational dataset of the Plant Vascular Variants Database is the **Global Survey of Vascular Variants Across Seed Plants**, which documents terminology, classification, and family-level phylogenetic distribution.
 
-→ [View the Global Survey dataset](data/global_survey)
+→ [View the Global Survey dataset](data/global-survey)
 
 ## Dataset structure											
 - ### Vascular Variant Category 	
