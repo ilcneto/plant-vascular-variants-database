@@ -11,13 +11,12 @@ The global survey constitutes the foundational dataset of the Plant Vascular Var
 
 - ### Vascular Variant Pattern 	
 	Indicates the names of the patterns, which describe major macro-morphologies derived from specific developmental changes.  										
-
 - ### Pattern definition
 	Defines what the pattern is and its alternative names. 
 	
-- ### Functional Pattern
+- ### Functional Category
 	Translate the vascular variant patterns into three major functional categories for ecological and functional studies. This classification is adapted from Kacamak et al. (2025).
-  - #### Uniform (wood)
+  	- #### Uniform (wood)
     Secondary xylem is undivided (except for rays), and the circumference is cylindrical or non-cylindrical.  
 	- #### Non-uniform (wood)
     Secondary xylem is still the main component of the wood cylinder, but it possesses small amounts of soft tissue derived from the differential activity of a single cambium. 
