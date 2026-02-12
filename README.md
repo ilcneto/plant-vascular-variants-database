@@ -42,9 +42,6 @@ The Plant Vascular Variants Database consists of a global framework-level survey
 - Use the specific order/family dataset citation provided in the README for the modules you use.
 
 ## Contact
-For questions or corrections, please contact:
-	Israel L. Cunha-Neto
-	Florida International University
-	ilcneto@fiu.edu
+For questions or corrections, please contact: Israel L. Cunha-Neto | Florida International University | ilcneto@fiu.edu
 
 ## This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
