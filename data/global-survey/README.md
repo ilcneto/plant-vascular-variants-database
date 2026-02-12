@@ -2,7 +2,8 @@
 
 The foundational dataset of the Plant Vascular Variants Database is the **Global Survey of Vascular Variants Across Seed Plants**, which documents terminology, classification, and family-level phylogenetic distribution.
 
-→ [View the Global Survey dataset](data/global_survey)# Global Survey of Vascular Variants Across Seed Plants										
+→ [View the Global Survey dataset](data/global_survey)
+
 ## Dataset structure											
 - ### Vascular Variant Category 	
 	Indicates the names of the categories, which are based on major developmental pathways linked to modifications at different developmental stages, namely at the procambial, cambial, and ectopic cambia levels. Each category includes multiple patterns.  										
