@@ -1,28 +1,51 @@
 # Plant Vascular Variants Database
-A curated, continuously updated database for "vascular variants" terminology, categories, patterns, and phylogenetic distribution across plants.
+A curated, living database documenting the diversity, classification, and phylogenetic distribution of vascular variants across seed plants. The database operationalizes the vascular variants framework introduced in Cunha-Neto et al. (2023) and is continuously updated as new data and studies become available.
 
-## Terminology and concept 
-The term vascular variants and its associated conceptual framework were introduced by Cunha-Neto (2023) to unify previously disparate terminology describing atypical patterns of vascular development in seed plants.
+## Background
+Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative arrangements of vascular tissues, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate comparative, evolutionary, and functional studies across plant lineages.							
 
-## Definition (from Cunha-Neto 2023)
-Vascular variants are alternative vascular ontogenies deviating from an ancestral development, achieved through modifications in the organization, activity, position, timing and/or number of vascular meristems. Specifically in stems of seed plants, vascular variants are alternative trajectories that deviate from the typical growth (i.e., eustele + bifacial single cambium), thereby generating circular or non-cylindrical conformations and altered arrangements of vascular tissues.
+## Database Structure
+The Plant Vascular Variants Database is organized into two complementary components:
 
-## The present database adopts the definition and framework above to organize historical terminology, structural categories and patterns, and the phylogenetic distribution of vascular variants across seed plants. It is organized into four sheets, as defined below. 
+### 1. Core Framework & Global Survey (located in /data/globalsurvey)
+This component represents the global survey underlying the original framework and novel parts (e.g., functional categories). 
+This dataset includes:
+	- Definitions of vascular variant categories and patterns.
+	- Phylogenetic distribution of vascular variants across seed plant families
+	- Historical terminology used to describe vascular variants.
+	- A glossary of terms associated with vascular variants. 
 
-## Table 1: Categories and patterns of vascular variants.
-## Table 2: Distribution of vascular variants across seed plants.
-## Table 3: Terminology historically used for vascular variants. 
-## Table 4: Glossary of terms associated with vascular variants.  
+### 2. Modular Family-Level Datasets (located in /data/order_family_datasets)
+This component comprises high-resolution datasets focused on specific orders or families and associated with peer-reviewed publications. This dataset includes species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
+										
+## Governance of the Plant Vascular Variants Database
+The Plant Vascular Variants Database is a curated, living scientific resource maintained by Israel L. Cunha-Neto and collaborators.
 
-The database also includes a list of references and acknowledgements of collaborators and contributors. 
+### 1. Update Policy
+	- Core framework updates occur when new evidence refines terminology, classification, or distribution.
+	- Modular datasets are updated in coordination with associated publications, in collaboration with contributing researchers. Future contributions may be incorporated as modular datasets. 
+	- All major updates are versioned and archived via Zenodo.
 
+### 2. Data Integrity
+Changes affecting definitions or classification will be documented in release notes. Deprecated terms remain archived for historical transparency. Each dataset retains its own citation boundary.
+
+### 3. Contributions
+Future contributions from collaborators may be incorporated as modular datasets following data curation. 
+						
 ## How to cite
-When using the concept, terminology, or definition of vascular variants, please cite:
-Cunha Neto I.L. 2023. Vascular variants in seed plants – a developmental approach. AoB Plants, 15(4): 1-15.
+The Plant Vascular Variants Database consists of a global framework-level survey and modular family-level datasets. These components should be cited separately when used independently.
 
-When using the database or any of its contents, please cite:
-Cunha-Neto, I. L. (YEAR). Vascular Variants Database (Version X.X) [Data set]. Zenodo. DOI: xxxxx
+### When using the concept, terminology, or definition of vascular variants, please cite:
+	- Cunha Neto I.L. 2023. Vascular variants in seed plants – a developmental approach. AoB Plants, 15(4): 1-15.
+### When using the database or any of its contents, please cite:
+	- Cunha-Neto, I. L. (YEAR). Plant Vascular Variants Database (Version X.X) [Data set]. Zenodo. DOI: xxxxx
+### Users employing both the conceptual framework and the database are encouraged to cite both references.
+### Use the specific order/family dataset citation provided in their README when using specific modules.
 
-Users employing both the conceptual framework and the database are encouraged to cite both references.
+## Contact
+For questions or corrections, please contact:
+Israel L. Cunha-Neto
+Florida International University
+ilcneto@fiu.edu
 
-## This project is licensed under the terms of the Creative Commons Attribution 4.0 license. 
+## This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
