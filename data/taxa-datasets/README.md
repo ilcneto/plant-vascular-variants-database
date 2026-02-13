@@ -4,19 +4,19 @@ All datasets are structured using the vascular variants framework and are concep
 Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
 
 ## Current datasets
-- Fabaceae (Ectopic cambia, vascular variants)
-	This includes a survey on the distribution of ectopic cambia (vascular variants). 
+- **Fabaceae**  
+  Ectopic cambia (vascular variants): This includes a survey on the distribution of ectopic cambia (vascular variants). 
 
 ## Forthcoming datasets
-- **Caryophyllales**
-	Medullary Bundles (vascular variants)
+- **Caryophyllales**  
+	Medullary Bundles (vascular variants)  
 	Based on Cunha-Neto et al., 2024
-- **Nyctaginaceae**
-  	Vascular variants
-  	Based on Cunha-Neto et al., 2022
-- **Sapindaceae**
-  	Vascular variants
-  	Based on Cunha-Neto et al., preprint
+- **Nyctaginaceae**  
+  	Vascular variants  
+  	Based on Cunha-Neto et al., 2022  
+- **Sapindaceae**  
+  	Vascular variants  
+  	Based on Cunha-Neto et al., preprint  
 	
 Additional taxon-level datasets will be added as new studies are completed and published.
 
