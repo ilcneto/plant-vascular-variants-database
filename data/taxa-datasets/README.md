@@ -8,15 +8,15 @@ Each taxon-level dataset represents a modular contribution to the Plant Vascular
 	This includes a survey on the distribution of ectopic cambia (vascular variants). 
 
 ## Forthcoming datasets
-- Caryophyllales
-		Medullary Bundles (vascular variants)
-		(based on Cunha-Neto et al., 2024)
-- Nyctaginaceae
-		Vascular variants
-		(based on Cunha-Neto et al., 2022)
-- Sapindaceae
-		Vascular variants
-		(based on Cunha-Neto et al., preprint)
+- **Caryophyllales**
+	Medullary Bundles (vascular variants)
+	Based on Cunha-Neto et al., 2024
+- **Nyctaginaceae**
+  	Vascular variants
+  	Based on Cunha-Neto et al., 2022
+- **Sapindaceae**
+  	Vascular variants
+  	Based on Cunha-Neto et al., preprint
 	
 Additional taxon-level datasets will be added as new studies are completed and published.
 
