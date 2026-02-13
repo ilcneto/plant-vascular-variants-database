@@ -9,14 +9,14 @@ Each taxon-level dataset represents a modular contribution to the Plant Vascular
 
 ## Forthcoming datasets
 - Caryophyllales
-	Medullary Bundles (vascular variants)
-	(based on Cunha-Neto et al., 2024)
+		Medullary Bundles (vascular variants)
+		(based on Cunha-Neto et al., 2024)
 - Nyctaginaceae
-	Vascular variants
-	(based on Cunha-Neto et al., 2022)
+		Vascular variants
+		(based on Cunha-Neto et al., 2022)
 - Sapindaceae
-	Vascular variants
-	(based on Cunha-Neto et al., preprint)
+		Vascular variants
+		(based on Cunha-Neto et al., preprint)
 	
 Additional taxon-level datasets will be added as new studies are completed and published.
 
