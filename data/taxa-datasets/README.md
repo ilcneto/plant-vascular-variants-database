@@ -1,6 +1,6 @@
 # Taxon-Level Datasets of Vascular Variants Across Seed Plants									
 This directory contains taxon-specific datasets documenting the occurrence, diversity, and classification of vascular variants across plant orders and families.
-All datasets are structured using the vascular variants framework and are conceptually linked to the Global Survey of Vascular Variants Across Seed Plants.
+All datasets are structured using the vascular variants framework and are conceptually linked to the **Global Survey of Vascular Variants Across Seed Plants**.
 Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
 
 ## Current datasets
@@ -8,13 +8,13 @@ Each taxon-level dataset represents a modular contribution to the Plant Vascular
 	This includes a survey on the distribution of ectopic cambia (vascular variants). 
 
 ## Forthcoming datasets
-- Caryophyllales 
-	Medullary Bundles (vascular variants) 
+- Caryophyllales
+	Medullary Bundles (vascular variants)
 	(based on Cunha-Neto et al., 2024)
-- Nyctaginaceae 
-	Vascular variants 
+- Nyctaginaceae
+	Vascular variants
 	(based on Cunha-Neto et al., 2022)
-- Sapindaceae 
+- Sapindaceae
 	Vascular variants
 	(based on Cunha-Neto et al., preprint)
 	
