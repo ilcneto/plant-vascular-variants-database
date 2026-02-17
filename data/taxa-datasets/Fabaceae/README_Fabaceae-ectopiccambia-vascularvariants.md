@@ -24,10 +24,10 @@ Manuscript under review. Upon publication, the DOI will be added here.
 ## How to cite 
 If using this dataset, please cite:
 	- The associated publication (see above).
-	- Saddoy & Cunha-Neto. (YEAR). Vascular Variants Database (Version X.X) [Data set]. Zenodo. DOI: xxxxx
+	- Saddoy & Cunha-Neto. (YEAR). Vascular Variants Database (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
 
 When using the concept, terminology, or definition of vascular variants, please cite: 
-  - Cunha Neto I.L. 2023. Vascular variants in seed plants Ð a developmental approach. AoB Plants, 15(4): 1-15.
+  - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
   
 ## Versioning
 This dataset is versioned independently from the global survey. Updates will be documented in the repository release notes.
@@ -35,6 +35,7 @@ This dataset is versioned independently from the global survey. Updates will be 
 ## Contact
 For questions or corrections, please contact: Israel L. Cunha-Neto | Florida International University | ilcneto@fiu.edu
 
-## This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
+## License
+This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
 
 ← [Back to taxa-level datasets](../)
