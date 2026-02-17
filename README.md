@@ -14,10 +14,10 @@ The Plant Vascular Variants Database is organized into two complementary compone
 ### 1. Core Framework & Global Survey (located in /data/global-survey)
 This component represents the global survey underlying the original framework and novel parts (e.g., functional categories). 
 This dataset includes:
-	- Definitions of vascular variant categories and patterns.  
-	- Phylogenetic distribution of vascular variants across seed plant families.  
-	- Historical terminology used to describe vascular variants.  
-	- A glossary of terms associated with vascular variants.   
+- Definitions of vascular variant categories and patterns.  
+- Phylogenetic distribution of vascular variants across seed plant families.  
+- Historical terminology used to describe vascular variants.  
+- A glossary of terms associated with vascular variants.   
 
 ### 2. Modular Family-Level Datasets (located in /data/taxa-datasets)
 This component comprises high-resolution datasets focused on specific orders or families and associated with peer-reviewed publications. This dataset includes species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
