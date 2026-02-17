@@ -35,7 +35,7 @@ The database also includes a "References" list.
 
 ## How to cite
 When using the concept, terminology, or definition of vascular variants, please cite: 
-  - Cunha-Neto I.L. 2023. Vascular variants in seed plants Ð a developmental approach. AoB Plants, 15(4): 1-15.
+  - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB Plants, 15(4): 1-15.
 
 When using the database or any of its contents, please cite: 
   - Cunha-Neto, I.L. (YEAR). Vascular Variants Database (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
