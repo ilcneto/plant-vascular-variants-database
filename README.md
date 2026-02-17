@@ -12,8 +12,7 @@ Most seed plants exhibit a conserved pattern of vascular organization (“typica
 The Plant Vascular Variants Database is organized into two complementary components:
 
 ### 1. Core Framework & Global Survey (located in /data/global-survey)
-This component represents the global survey underlying the original framework and novel parts (e.g., functional categories). 
-This dataset includes:
+This component represents the global survey underlying the original framework and novel parts (e.g., functional categories). This dataset includes:
 - Definitions of vascular variant categories and patterns.  
 - Phylogenetic distribution of vascular variants across seed plant families.  
 - Historical terminology used to describe vascular variants.  
