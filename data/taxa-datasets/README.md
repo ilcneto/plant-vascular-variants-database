@@ -1,4 +1,4 @@
-# Taxon-Level Datasets of Vascular Variants Across Seed Plants									
+# Taxon-Level Datasets of Vascular Variants									
 This directory contains taxon-specific datasets documenting the occurrence, diversity, and classification of vascular variants across plant orders and families. All datasets are structured using the vascular variants framework and are conceptually linked to the **Global Survey of Vascular Variants Across Seed Plants**. Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
 
 ## Current datasets
