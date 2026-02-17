@@ -21,5 +21,8 @@ When using the database or any of its contents, please cite:
 
 Users employing both the conceptual framework and the database are encouraged to cite both references.
 
+## Contact
+For questions or corrections, please contact: Israel L. Cunha-Neto | Florida International University | ilcneto@fiu.edu
+
 ## License
 This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
