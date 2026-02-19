@@ -1,9 +1,9 @@
 # Taxon-Level Datasets of Vascular Variants									
-This directory contains taxon-specific datasets documenting the occurrence, diversity, and classification of vascular variants across plant orders and families. All datasets are structured using the vascular variants framework and are conceptually linked to the **Global Survey of Vascular Variants Across Seed Plants**. Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
+This directory contains taxon-specific datasets documenting the diversity of vascular variants across plant orders and families. All datasets are structured using the vascular variants framework and are conceptually linked to the **Global Survey of Vascular Variants Across Seed Plants**. Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
 
 ## Current datasets
 - **Fabaceae**  
-  Ectopic cambia (vascular variants): This includes a survey on the distribution of ectopic cambia across the family. 
+  Ectopic cambia (vascular variants): This includes a survey on the distribution of ectopic cambia across Fabaceae. 
 
 ## Forthcoming datasets
 The Plant Vascular Variants Database is designed as a collaborative and evolving resource. Other plant groups in which vascular variants have been documented may be added in future releases. Integration of any taxon-level dataset will occur only through explicit collaboration or reuse of publicly available datasets with appropriate attribution and citation.
