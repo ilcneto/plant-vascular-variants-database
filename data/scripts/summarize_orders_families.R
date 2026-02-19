@@ -6,16 +6,21 @@ library(readr)
 # Read CSV
 taxa <- read_csv("data/global-survey/Table 2.csv", show_col_types = FALSE)
 
-# Trim column names to avoid hidden spaces
+# Trim column names
 names(taxa) <- trimws(names(taxa))
 
-# Define columns to summarize
-level <- c("Order", "Family")
+# Make sure the required columns exist
+if(!all(c("Order", "Family") %in% names(taxa))){
+  stop("CSV must have columns named exactly 'Order' and 'Family'")
+}
 
 # Count unique entries
+order_count <- n_distinct(taxa$Order)
+family_count <- n_distinct(taxa$Family)
+
 summary_df <- tibble(
-  level = level,
-  count = sapply(level, function(lv) n_distinct(taxa[[lv]]))
+  level = c("Order", "Family"),
+  count = c(order_count, family_count)
 )
 
 # Plot
@@ -34,6 +39,6 @@ ggsave(
   filename = "data/figures/taxonomic_coverage_orders_families.png",
   plot = p,
   width = 6,
-  height = 4,
+  height = 6,
   dpi = 300
 )
