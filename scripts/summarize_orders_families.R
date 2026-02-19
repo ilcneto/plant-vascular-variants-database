@@ -33,7 +33,7 @@ p <- ggplot(summary_df, aes(x = level, y = count)) +
   ) +
   theme_minimal(base_size = 14)
 
-ggsave("data/figures/taxonomic_coverage_orders_families.png", plot = p,
+ggsave("figures/taxonomic_coverage_orders_families.png", plot = p,
        width = 6, height = 6, dpi = 300)
 
 cat("Figure saved successfully!\n")
