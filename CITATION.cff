@@ -8,11 +8,11 @@ repository-code: "https://github.com/ilcneto/plant-vascular-variants-database"
 type: dataset
 license: CC-BY-4.0
 keywords:
-  - vascular biology
+  - botany
   - plant anatomy
-  - developmental biology
-  - phylogeny
-  - seed plants
+  - vascular biology
+  - biodiversity
+  - plants
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2026-02-XX
+doi: 10.5281/zenodo.18704992
+date-released: 2026-02-19
