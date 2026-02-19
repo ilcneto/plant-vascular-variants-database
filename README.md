@@ -22,11 +22,9 @@ This component represents an updated global survey that underlies the original f
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
 
 ### Taxonomic coverage figure
-This represents the number of orders and families from seed plants in which vascular variants have been documented, based on the global survey of the Plant Vascular Variants Database. The figure below is generated from Table 2 ['data/global-survey/Table_2.csv'] using the script `scripts/summarize_orders_families.R`.
+The figure below indicates the number of orders and families from seed plants in which vascular variants have been documented, based on the global survey of the Plant Vascular Variants Database. The figure is automatically generated from Table 2 ['data/global-survey/Table_2.csv'] using the script `scripts/summarize_orders_families.R`.
 
 ![Taxonomic coverage](data/figures/taxonomic_coverage_orders_families.png)
-
-*Acknowledgements* and credits for feedback and assistance are provided in the ACKNOWLEDGEMENTS.md file.
 										
 ## Governance of the Plant Vascular Variants Database
 The Plant Vascular Variants Database is a curated, living scientific resource maintained by Israel L. Cunha-Neto and collaborators.
@@ -42,7 +40,9 @@ Future contributions from collaborators may be incorporated as modular datasets 
 
 ### 4. Project Status
 This database is an actively maintained, living resource. Versioned releases are archived via Zenodo, while ongoing updates are curated through the GitHub repository. Curated anatomical and macroscopic images linked to selected taxa and vascular variant patterns will be added in future releases.
-						
+
+*Acknowledgements* and credits for feedback and assistance are provided in the ACKNOWLEDGEMENTS.md file.
+
 ## How to cite
 The Plant Vascular Variants Database consists of a global framework-level survey and modular family-level datasets. These components should be cited separately when used independently.
 - When using the concept, terminology, or definition of vascular variants, please cite:
