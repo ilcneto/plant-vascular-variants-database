@@ -1,29 +1,26 @@
-# Load packages
 library(dplyr)
 library(ggplot2)
 library(readr)
 
-# Read CSV
-taxa <- read_csv("data/global-survey/Table 2.csv", show_col_types = FALSE)
+csv_path <- "data/global-survey/Table 2.csv"
+if(!file.exists(csv_path)) stop(paste("CSV not found at", csv_path))
 
-# Trim column names
+taxa <- read_csv(csv_path, show_col_types = FALSE)
 names(taxa) <- trimws(names(taxa))
 
-# Make sure the required columns exist
-if(!all(c("Order", "Family") %in% names(taxa))){
-  stop("CSV must have columns named exactly 'Order' and 'Family'")
-}
+cat("CSV read successfully. Rows:", nrow(taxa), "Columns:", ncol(taxa), "\n")
+cat("Columns:", paste(colnames(taxa), collapse=", "), "\n")
 
-# Count unique entries
 order_count <- n_distinct(taxa$Order)
 family_count <- n_distinct(taxa$Family)
+
+cat("Orders:", order_count, "Families:", family_count, "\n")
 
 summary_df <- tibble(
   level = c("Order", "Family"),
   count = c(order_count, family_count)
 )
 
-# Plot
 p <- ggplot(summary_df, aes(x = level, y = count)) +
   geom_col(width = 0.6, fill = "darkgreen") +
   geom_text(aes(label = count), vjust = -0.4, size = 5) +
@@ -34,11 +31,7 @@ p <- ggplot(summary_df, aes(x = level, y = count)) +
   ) +
   theme_minimal(base_size = 14)
 
-# Save figure
-ggsave(
-  filename = "data/figures/taxonomic_coverage_orders_families.png",
-  plot = p,
-  width = 6,
-  height = 6,
-  dpi = 300
-)
+ggsave("data/figures/taxonomic_coverage_orders_families.png", plot = p,
+       width = 6, height = 6, dpi = 300)
+
+cat("Figure saved successfully!\n")
