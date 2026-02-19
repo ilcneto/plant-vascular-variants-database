@@ -21,7 +21,12 @@ This component represents an updated global survey that underlies the original f
 ### 2. Modular Family-Level Datasets (located in /data/taxa-datasets)
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
 
-Acknowledgements and credits for feedback and assistance are provided in the ACKNOWLEDGEMENTS.md file.
+### Taxonomic coverage figure
+This represents the number of orders and families from seed plants in which vascular variants have been documented, based on the global survey of the Plant Vascular Variants Database. The figure below is generated from Table 2 ('data/global-survey/Table_2.csv') using the script `scripts/summarize_orders_families.R`.
+
+![Taxonomic coverage](figures/taxonomic_coverage_orders_families.png)
+
+*Acknowledgements* and credits for feedback and assistance are provided in the ACKNOWLEDGEMENTS.md file.
 										
 ## Governance of the Plant Vascular Variants Database
 The Plant Vascular Variants Database is a curated, living scientific resource maintained by Israel L. Cunha-Neto and collaborators.
