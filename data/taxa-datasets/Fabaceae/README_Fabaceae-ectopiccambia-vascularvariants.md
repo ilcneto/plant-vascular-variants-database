@@ -5,8 +5,7 @@ A modular dataset within the Plant Vascular Variants Database.
 This dataset provides a detailed survey of the occurrence, structural variation, and classification of **ectopic cambia** within **Fabaceae**. It expands upon the global vascular variants framework (Cunha-Neto et al. 2023) by providing species-level coding and anatomical documentation for a single vascular variant type within one of the largest angiosperm families.
 
 ## Associated Publication
-
-Manuscript under review. Upon publication, the DOI will be added here.
+*Manuscript in preparation. Upon publication, the DOI will be added here and the citation updated accordingly.* 
 
 ## Columns
 
@@ -24,7 +23,7 @@ Manuscript under review. Upon publication, the DOI will be added here.
 ## How to cite 
 If using this dataset, please cite:
 	- The associated publication (see above).
-	- Saddoy & Cunha-Neto. (YEAR). Vascular Variants Database (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
+	- AUTHORS. (YEAR). Fabaceae-Ectopic Cambia Dataset (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
 
 When using the concept, terminology, or definition of vascular variants, please cite: 
   - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
