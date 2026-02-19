@@ -6,7 +6,8 @@ The foundational dataset of the Plant Vascular Variants Database is the **Global
 → [View the Global Survey of Vascular Variants](data/global-survey)
 
 ## Background
-Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative vascular tissue arrangements, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate comparative, evolutionary, and functional studies across plant lineages.							
+Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative vascular tissue arrangements, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate comparative, evolutionary, and functional studies across plant lineages.	
+
 ## Database Structure
 The Plant Vascular Variants Database is organized into two complementary components:
 
@@ -19,6 +20,8 @@ This component represents an updated global survey that underlies the original f
 
 ### 2. Modular Family-Level Datasets (located in /data/taxa-datasets)
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
+
+Acknowledgements and credits for feedback and assistance are provided in the ACKNOWLEDGEMENTS.md file.
 										
 ## Governance of the Plant Vascular Variants Database
 The Plant Vascular Variants Database is a curated, living scientific resource maintained by Israel L. Cunha-Neto and collaborators.
