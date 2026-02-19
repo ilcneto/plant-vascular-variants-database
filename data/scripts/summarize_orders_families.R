@@ -7,12 +7,10 @@ library(readr)
 taxa <- read_csv("data/global-survey/Table 2.csv", show_col_types = FALSE)
 
 # Count unique orders and families
+levels <- c("Order", "Family")
 summary_df <- tibble(
-  level = c("Order", "Family"),
-  count = c(
-    n_distinct(taxa$Order),
-    n_distinct(taxa$Family)
-  )
+  level = levels,
+  count = sapply(levels, function(lv) n_distinct(taxa[[lv]]))
 )
 
 # Plot
