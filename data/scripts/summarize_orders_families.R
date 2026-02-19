@@ -1,3 +1,5 @@
+#Code developed by Israel L. Cunha-Neto, with assistance from ChatGPT (OpenAI).
+
 library(dplyr)
 library(ggplot2)
 library(readr)
