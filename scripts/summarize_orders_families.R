@@ -1,4 +1,6 @@
-#Code developed by Israel L. Cunha-Neto, with assistance from ChatGPT (OpenAI).
+# This script generates summary statistics and figures for taxonomic coverage
+# Output: figures/taxonomic_coverage_orders_families.png
+# Code developed by Israel L. Cunha-Neto, with assistance from ChatGPT (OpenAI).
 
 library(dplyr)
 library(ggplot2)
