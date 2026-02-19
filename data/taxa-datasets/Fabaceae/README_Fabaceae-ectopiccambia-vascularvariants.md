@@ -22,11 +22,11 @@ This dataset provides a detailed survey of the occurrence, structural variation,
 
 ## How to cite 
 If using this dataset, please cite:
-	- The associated publication (see above).
-	- AUTHORS. (YEAR). Fabaceae-Ectopic Cambia Dataset (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
+- The associated publication (see above).    
+- AUTHORS. (YEAR). Fabaceae-Ectopic Cambia Dataset (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
 
-When using the concept, terminology, or definition of vascular variants, please cite: 
-  - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
+When using the concept, terminology, or definition of vascular variants, please cite:   
+- Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
   
 ## Versioning
 This dataset is versioned independently from the global survey. Updates will be documented in the repository release notes.
