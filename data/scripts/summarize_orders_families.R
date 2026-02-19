@@ -4,14 +4,14 @@ library(ggplot2)
 library(readr)
 
 # Read Table 2
-taxa <- read_csv("data/global-survey/Table 2.csv")
+taxa <- read_csv("data/global-survey/Table 2.csv", show_col_types = FALSE)
 
 # Count unique orders and families
 summary_df <- tibble(
-  level = c("Orders", "Families"),
+  level = c("Order", "Family"),
   count = c(
-    n_distinct(taxa$order),
-    n_distinct(taxa$family)
+    n_distinct(taxa$Order),
+    n_distinct(taxa$Family)
   )
 )
 
