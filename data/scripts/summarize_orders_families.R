@@ -3,14 +3,19 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 
-# Read Table 2
+# Read CSV
 taxa <- read_csv("data/global-survey/Table 2.csv", show_col_types = FALSE)
 
-# Count unique orders and families
-levels <- c("Order", "Family")
+# Trim column names to avoid hidden spaces
+names(taxa) <- trimws(names(taxa))
+
+# Define columns to summarize
+level <- c("Order", "Family")
+
+# Count unique entries
 summary_df <- tibble(
-  level = levels,
-  count = sapply(levels, function(lv) n_distinct(taxa[[lv]]))
+  level = level,
+  count = sapply(level, function(lv) n_distinct(taxa[[lv]]))
 )
 
 # Plot
@@ -32,4 +37,3 @@ ggsave(
   height = 4,
   dpi = 300
 )
-
