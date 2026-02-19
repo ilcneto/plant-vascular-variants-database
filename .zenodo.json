@@ -1,6 +1,6 @@
 {
   "title": "Plant Vascular Variants Database",
-  "upload_type": "software",
+  "upload_type": "dataset",
   "description": "A curated database for vascular variants research.",
   "creators": [
     {
@@ -20,7 +20,7 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/yourusername/yourrepo",
+      "identifier": "https://github.com/ilcneto/plant-vascular-variants-database",
       "scheme": "url"
     }
   ]
