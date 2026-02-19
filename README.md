@@ -48,7 +48,7 @@ The Plant Vascular Variants Database consists of a global framework-level survey
 - When using the concept, terminology, or definition of vascular variants, please cite:
 	- Cunha-Neto I.L. 2023. Vascular variants in seed plants – a developmental approach. AoB Plants, 15(4): 1-15.
 - When using the database or any of its contents, please cite:
-	- Cunha-Neto, I.L. (YEAR). Plant Vascular Variants Database (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
+	- Cunha-Neto, I.L. 2026. Plant Vascular Variants Database (V. 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18704993
 - Users employing both the conceptual framework and the database are encouraged to cite both references.
 - Use the specific order/family dataset citation provided in the README for the modules you use.
 
