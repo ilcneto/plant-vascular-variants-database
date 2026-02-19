@@ -1,7 +1,7 @@
 # Plant Vascular Variants Database
 A curated, living database documenting the diversity of vascular variants across seed plants. The database operationalizes the vascular variants framework introduced in Cunha-Neto et al. (2023) and is continuously updated as new data and studies become available.
 
-The Plant Vascular Variants Database is organized around a foundational **Global Survey**, which synthesizes historical terminology, classification, and phylogenetic distribution across seed plants, alongside **taxa-specific datasets** that focus on individual orders or families and complement the global synthesis.
+The Plant Vascular Variants Database is organized around a foundational **global survey**, which synthesizes historical terminology, classification, and phylogenetic distribution across seed plants, alongside **taxa-specific datasets** that focus on individual orders or families and complement the global synthesis.
 
 → [View the Global Survey of Vascular Variants](data/global-survey)
 
@@ -18,7 +18,7 @@ This component represents an updated global survey that underlies the original f
 - Historical terminology used to describe vascular variants.  
 - A glossary of terms associated with vascular variants.   
 
-### 2. Modular Family-Level Datasets (located in /data/taxa-datasets)
+### 2. Modular Taxa-Specific Datasets (located in /data/taxa-datasets)
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
 
 ### Taxonomic coverage figure
