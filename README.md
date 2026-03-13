@@ -22,7 +22,7 @@ This component represents an updated global survey that underlies the original f
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
 
 ### Taxonomic coverage
-The summary outputs below describe the current taxonomic coverage of vascular variants across seed plants in the Plant Vascular Variants Database. These summaries include the number of orders and families represented in the database and the distribution of vascular variant categories and patterns (see notes on monocots below). All summary tables and figures are automatically generated from the global survey dataset [data/global-survey/Table 2.csv]. Scripts used to generate these outputs are available in the scripts/ directory, and the resulting summary files are stored in the summary/ directory.
+The summary outputs below describe the current taxonomic coverage of vascular variants across seed plants in the Plant Vascular Variants Database. These summaries include the number of orders and families represented in the database and the distribution of vascular variant categories and patterns (*see notes on monocots below*). All summary tables and figures are generated from the global survey dataset [data/global-survey/Table 2.csv]. Scripts used to generate these outputs are available in the scripts/ directory, and the resulting summary files are stored in the summary/ directory.
 
 Current summary outputs include:
 - vascular_variant_category_summary.csv
@@ -32,6 +32,7 @@ Current summary outputs include:
 ![Taxonomic coverage](summary/taxonomic_coverage_orders_families.png)
 
 **Note on monocots**
+
 The *atactostele* of monocots is considered a *procambial variant* and is widespread across this large group of plants. To keep the database concise, procambial variants are not systematically surveyed for monocots in the current release. A small number of monocot taxa are nevertheless included where secondary vascular development has been interpreted as emplying the unique *monocot cambia*. These cases are recorded because they represent uncommon and potentially informative departures from the typical monocot vascular development.
 
 ## Governance of the Plant Vascular Variants Database
