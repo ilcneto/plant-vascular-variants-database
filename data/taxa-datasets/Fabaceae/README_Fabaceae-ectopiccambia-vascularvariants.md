@@ -1,29 +1,39 @@
-# Fabaceae - Ectopic Cambia Dataset										
+# Fabaceae – Ectopic Cambia Dataset										
 A modular dataset within the Plant Vascular Variants Database.						
 											
 ## Overview
-This dataset provides a detailed survey of the occurrence, structural variation, and classification of **ectopic cambia** within **Fabaceae**. It expands upon the global vascular variants framework (Cunha-Neto et al. 2023) by providing species-level coding and anatomical documentation for a single vascular variant type within one of the largest angiosperm families.
+This dataset expands upon the "Global Survey of Vascular Variants Across Seed Plants" by providing species-level coding for the occurrence and structural variation of **ectopic cambia** within **Fabaceae**.
 
 ## Associated Publication
-*Manuscript in preparation. Upon publication, the DOI will be added here and the citation updated accordingly.* 
+See preprint here: [include citation and DOI] 
 
-## Columns
+## Dataset structure
 
 - ### Subfamily
+	Indicate the Fabaceae subfamily following Azani et al. (2017).
 - ### Genus
-- ### Specific epithet
-- ### Inclusion in the Azani et al. (2017) phylogeny.
+	Indicate the genus name (following POWO 2026)
+- ### Species
+	Indicate the species name (following POWO 2026).
+- ### Phylogeny
+	Indicate if the species is included in the Azani et al. (2017) with "Yes" or "No". 
 - ### EC pattern
-- ### Growth form
-- ### Macromorphology
-- ### Geographical distribution
-- ### Organ with EC
-- ### Notes
+	Score the tctopic cambia pattern with two alternatives: neoformations or successive cambia. 
+- ### Habit
+	Indicate the plant habit (following POWO 2026).
+- ### Conformation
+	Indicate the organization of ectopic cambia in cross sections. "Successive cambia" may be continuous (complete rings) or discontinuous (incomplete rings); species with "neoformations" are categorized on whether the new cambia arise within the xylem ("Intraxylary") or in the periphery of the organ originating from the phloem, pericycle or cortex, here broadly indicated as "Extraxylary".
+- ### Biogeographical distribution
+	Categorization of floral biogeographic distribution based on Liu et al. (2023).
+- ### Plant organ
+	Observation of ectopic cambia in stems, roots, or both. 
+- ### References
+	Indicate the source for the images and descriptions for ectopic cambia. 
 
 ## How to cite 
 If using this dataset, please cite:
 - The associated publication (see above).    
-- AUTHORS. (YEAR). Fabaceae-Ectopic Cambia Dataset (Version 1.0) [Data set]. Zenodo. DOI: xxxxx
+- Saddoy and Cunha-Neto. 2026. Fabaceae-Ectopic Cambia Dataset (v 1.0.0) [Data set]. Zenodo. DOI: xxxxx
 
 When using the concept, terminology, or definition of vascular variants, please cite:   
 - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
@@ -36,5 +46,3 @@ For questions or corrections, please contact: Israel L. Cunha-Neto | Florida Int
 
 ## License
 This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
-
-← [Back to taxa-level datasets](../)
