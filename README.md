@@ -30,6 +30,7 @@ Current summary outputs include:
 - vascular_variant_category_summary.csv
 - vascular_variant_pattern_summary.csv
 - taxonomic_coverage_orders_families.png
+
 These files provide a reproducible overview of the current taxonomic representation of vascular variants across seed plants.
 
 ![Taxonomic coverage](summary/taxonomic_coverage_orders_families.png)
