@@ -83,8 +83,7 @@ category_summary <- category_summary %>%
 pattern_summary <- pattern_summary %>%
   arrange(`Vascular Variant Category`, `Vascular Variant Pattern`)
 
-output_dir <- file.path("data", "global-survey")
-output_dir <- file.path("/Users/israelneto/Library/CloudStorage/OneDrive-FloridaInternationalUniversity/Work/Research/VV Database/GitHub/Testing_scripts")
+output_dir <- file.path("summary")
 
 write_csv(
   category_summary,
