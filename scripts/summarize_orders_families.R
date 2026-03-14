@@ -54,11 +54,8 @@ p <- ggplot(summary_df, aes(y = level, x = count)) +
 # ------------------------------------
 # SAVE FIGURE
 # ------------------------------------
-out_dir <- "figures"
-if (!dir.exists(out_dir)) dir.create(out_dir, recursive = TRUE)
-ggsave(file.path(out_dir, "taxonomic_coverage_orders_families.png"),
+ggsave("summary/taxonomic_coverage_orders_families.png"),
        plot = p, width = 7, height = 4, dpi = 300)
-
 cat("Figure saved successfully!\n")
 ``
 #End of code
