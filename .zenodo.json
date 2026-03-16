@@ -4,7 +4,9 @@
   "description": "A curated database for research on plant vascular variants, including anatomical and biodiversity data for educational and scientific purposes.",
   "creators": [
     {
-      "name": "Cunha Neto, Israel L."
+      "name": "Cunha Neto, Israel L.",
+      "affiliation": "Florida International University",
+      "orcid": "https://orcid.org/0000-0002-0914-9974"
     }
   ],
   "version": "1.0.0",
