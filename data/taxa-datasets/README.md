@@ -1,28 +1,14 @@
-# Taxon-Level Datasets of Vascular Variants									
-This directory contains taxon-specific datasets documenting the diversity of vascular variants across plant orders and families. All datasets are structured using the vascular variants framework and are conceptually linked to the **Global Survey of Vascular Variants Across Seed Plants**. Each taxon-level dataset represents a modular contribution to the Plant Vascular Variants Database and may differ in taxonomic scope, anatomical resolution, and variant coverage.
+# Taxon-Specific Datasets								
+This directory lists taxon-specific datasets that contribute to the Plant Vascular Variants Database. These datasets document the occurrence and diversity of vascular variants within particular plant clades and are conceptually linked to the Global Survey dataset included in this repository.
+
+Taxon-specific datasets are maintained in separate repositories to allow independent development, collaboration, and versioned releases. Taxon-specific datasets complement the Global Survey by providing higher-resolution data within particular plant groups. Together, these resources document vascular variants across multiple taxonomic scales.
 
 ## Current datasets
 - **Fabaceae**  
   Ectopic cambia (vascular variants): This includes a survey on the distribution of ectopic cambia across Fabaceae. 
 
-## Forthcoming datasets
-The Plant Vascular Variants Database is designed as a collaborative and evolving resource. Other plant groups in which vascular variants have been documented may be added in future releases. Integration of any taxon-level dataset will occur only through explicit collaboration or reuse of publicly available datasets with appropriate attribution and citation.
+## Future datasets
+The Plant Vascular Variants Database is designed as a modular and collaborative resource. Additional taxon-specific datasets may be integrated in the future as new studies become available. 
 	
-## How to cite
-### Using taxon-specific data
-When using data from a particular order- or family-level dataset, please cite the Zenodo record and/or publication specified in the README of that dataset.
-
-### Using the vascular variants framework
-When using the concept, terminology, or definition of vascular variants, please cite: 
-  - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
-
-When using the database or any of its contents, please cite: 
-  - Cunha-Neto, I.L. 2026. Plant Vascular Variants Database (V. 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18704993
-
-Users employing both the conceptual framework and the database are encouraged to cite both references.
-
 ## Contact
 For questions or corrections, please contact: Israel L. Cunha-Neto | Florida International University | ilcneto@fiu.edu
-
-## License
-This project is licensed under the terms of the Creative Commons Attribution 4.0 license.
