@@ -34,7 +34,7 @@ summary_df <- tibble(
 
 # ---- Plot (two horizontal bars with totals at the end) ----
 p <- ggplot(summary_df, aes(y = level, x = count)) +
-  geom_col(height = 0.55, fill = "grey") +
+  geom_col(fill = "grey") +
   geom_text(
     aes(label = comma(count)),
     hjust = -0.15, size = 5
