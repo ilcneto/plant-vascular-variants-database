@@ -8,6 +8,6 @@ GitHub repository
 https://github.com/ilcneto/fabaceae-ectopic-cambia-dataset
 
 Zenodo archive  
-DOI: XXXXX
+DOI: https://doi.org/10.5281/zenodo.19103807
 
 This dataset is part of the **Plant Vascular Variants Database**, which integrates global and taxon-specific datasets documenting vascular variants across seed plants.
