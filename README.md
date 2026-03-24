@@ -33,7 +33,7 @@ Current summary outputs include:
 
 **Note on monocots**
 
-The *atactostele* of monocots is considered a *procambial variant* and is widespread across this large group of plants. To keep the database concise, procambial variants are not systematically surveyed for monocots in the current release. A small number of monocot taxa are nevertheless included where secondary vascular development has been interpreted as emplying the unique *monocot cambia*. These cases are recorded because they represent uncommon and potentially informative departures from the typical monocot vascular development.
+The *atactostele* of monocots is considered here a *procambial variant* which is widespread across this large group of plants. To keep the database concise, procambial variants are not systematically surveyed for monocots in the current release. A small number of monocot taxa are nevertheless included where secondary vascular development has been interpreted as employing the unique *monocot cambia* (secondary thickening meristem). These cases are recorded because they represent uncommon and potentially informative deviations from the typical monocot vascular development.
 
 ## Governance of the Plant Vascular Variants Database
 The Plant Vascular Variants Database is a curated, living scientific resource maintained by Israel L. Cunha-Neto and collaborators.
