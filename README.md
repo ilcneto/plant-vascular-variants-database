@@ -6,7 +6,7 @@ The Plant Vascular Variants Database is organized around a foundational **global
 → [View the Global Survey of Vascular Variants](data/global-survey)
 
 ## Background
-Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative vascular tissue arrangements, collectively termed vascular variants. The vascular variants framework provides a standardized terminology and classification to describe these alternative developmental architectures and to facilitate evolutionary and functional studies across plants.	
+Most seed plants exhibit a conserved pattern of vascular organization (“typical growth”). In contrast, many lineages exhibit alternative vascular tissue arrangements, collectively termed vascular variants. The vascular variants framework provides standardized terminology and classification for describing these alternative developmental architectures and facilitates evolutionary and functional studies across plants.	
 
 ## Database Structure
 The Plant Vascular Variants Database is organized into two complementary components:
@@ -18,11 +18,13 @@ This component represents an updated global survey that underlies the original f
 - Historical terminology used to describe vascular variants.  
 - A glossary of terms associated with vascular variants.   
 
-### 2. Modular Taxa-Specific Datasets (located in /data/taxa-datasets)
+### 2. Modular Taxa-Specific Datasets (located in /data/taxon-datasets)
 This component comprises high-resolution datasets focused on specific orders or families. The datasets include species-level coding and expanded anatomical or functional information. Each module includes a README that provides detailed scope and citation instructions.
 
-### Taxonomic coverage
-The summary outputs below describe the current taxonomic coverage of vascular variants across seed plants in the Plant Vascular Variants Database. These summaries include the number of orders and families represented in the database and the distribution of vascular variant categories and patterns (*see notes on monocots below*). All summary tables and figures are generated from the global survey dataset [data/global-survey/Table 2.csv]. Scripts used to generate these outputs are available in the scripts/ directory, and the resulting summary files are stored in the summary/ directory.
+### Number of orders and families with documented vascular variants
+The outputs below describe the current distribution of vascular variants across seed plants, as synthesized from the Plant Vascular Variants Database. These summaries reflect the best available knowledge on the occurrence of vascular variants and include the number of orders and families in which they have been documented, as well as their distribution across categories and patterns (*see notes on monocots below*). 
+
+Tables and figures are generated from the global survey dataset [data/global-survey/Table 2.csv]. Scripts used to generate these outputs are available in the scripts/ directory, and the resulting summary files are stored in the summary/ directory.
 
 Current summary outputs include:
 - vascular_variant_category_summary.csv
