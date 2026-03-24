@@ -31,7 +31,7 @@ Current summary outputs include:
 - vascular_variant_pattern_summary.csv
 - taxonomic_coverage_orders_families.png
 
-![Taxonomic coverage](summary/taxonomic_coverage_orders_families.png)
+![Taxonomic coverage](summary/taxonomic_coverage_orders_families_v2.png)
 
 **Note on monocots**
 
