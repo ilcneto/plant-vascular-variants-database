@@ -40,15 +40,18 @@ p <- ggplot(summary_df, aes(y = level, x = count)) +
     hjust = -0.15, size = 5
   ) +
   labs(
-    x = "Number represented in the database",
+    x = NULL,
     y = NULL,
-    title = "Current taxonomic coverage of vascular variants"
+    title = "Number of orders and families with vascular variants"
   ) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.10)), labels = comma) +
   theme_minimal(base_size = 14) +
   theme(
-    panel.grid.major.y = element_blank(),
-    panel.grid.minor = element_blank()
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.line.x  = element_blank(),
+    axis.ticks.x = element_blank(),
+    axis.text.x = element_blank()
   )
 
 # ------------------------------------
