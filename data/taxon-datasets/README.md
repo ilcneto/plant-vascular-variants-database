@@ -1,7 +1,5 @@
 # Taxon-Specific Datasets								
-This directory lists taxon-specific datasets that contribute to the Plant Vascular Variants Database. These datasets document the occurrence and diversity of vascular variants within particular plant clades and are conceptually linked to the Global Survey dataset included in this repository.
-
-Taxon-specific datasets are maintained in separate repositories to allow independent development, collaboration, and versioned releases. Taxon-specific datasets complement the Global Survey by providing higher-resolution data within particular plant groups. Together, these resources document vascular variants across multiple taxonomic scales.
+This directory lists taxon-specific datasets that contribute to the Plant Vascular Variants Database. These datasets document the occurrence and diversity of vascular variants within particular plant clades and are conceptually linked to the Global Survey dataset included in this repository. Taxon datasets are maintained in separate repositories to allow independent development, collaboration, and versioned releases. 
 
 ## Current datasets
 - **Fabaceae**  
