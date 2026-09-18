@@ -6,7 +6,7 @@
 library(dplyr)
 library(ggplot2)
 library(readr)
-library(scales)  # for nice number formatting (optional)
+library(scales)
 
 # Path to CSV
 csv_path <- "data/global-survey/Table 2.csv"
@@ -28,7 +28,7 @@ family_count <- n_distinct(taxa$Family)
 cat("Orders:", order_count, "Families:", family_count, "\n")
 
 summary_df <- tibble(
-  level = factor(c("Order", "Family"), levels = c("Family", "Order")), # controls vertical order
+  level = factor(c("Order", "Family"), levels = c("Family", "Order")),
   count = c(order_count, family_count)
 )
 
