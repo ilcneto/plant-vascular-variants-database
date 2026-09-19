@@ -3,10 +3,10 @@ This directory lists taxon-specific datasets that contribute to the Plant Vascul
 
 ## Current datasets
 - **Caryophyllales**  
-  Medullary Bundles: This includes a survey on the distribution of medullary bundles across Caryophyllales.
+  Medullary Bundles: This includes a survey on the occurrence of medullary bundles across Caryophyllales.
    
 - **Fabaceae**  
-  Ectopic cambia (vascular variants): This includes a survey on the distribution of ectopic cambia across Fabaceae. 
+  Ectopic cambia: This includes a survey on the occurrence and geographical distribution of ectopic cambia across Fabaceae. 
 
 ## Future datasets
 Additional taxon-specific datasets will be integrated as new studies become available. 
